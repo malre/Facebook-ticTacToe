@@ -1,0 +1,34 @@
+The code does not work in reseaux mode.
+adaptation for reseaux 
+- Creating a loguin page.
+- Recording loguin XML or other BDD
+- Recuperation of event.click on BDD 
+
+import 'React', {Component} from 'react';
+//import XML parse or BDD
+
+
+
+const BDDEventClick = () => {
+    TixTacToe.push(
+    BDD.event.click(Logus.index[1]
+    ),
+const RecupLogu = () => {
+    state = (
+      logus:[
+      { /// wait/// },
+      ]
+      )
+      
+      
+}
+
+const AddLogus = () => {
+     
+
+}
+  //////////////////////////////////
+  this code isn't correct , just for idea 
+  resolve problem network Game
+  ///////////////////////////////////
+}
